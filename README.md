@@ -40,6 +40,8 @@ Populate the data: Provide your data to the RecyclerView's adapter. The adapter 
 Task to Do - (Assignmnet)
 
 Click on the Recyclerview Item and show a Toast message - "You Clicked on Image 1,2,3 etc" 
+
 (Task Example Image on Right Side)
+
 ![task](https://github.com/GDSC23BundelkhandUniversity/RecyclerView---Android/assets/87789759/d361d2e7-9bfe-41e7-a856-483ad71e4c2b)
 
